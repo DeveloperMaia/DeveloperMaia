@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como técnico de TI.
 - 🌱 Estou me desenvolvendo na área de desenvolvimento web.
-- 📫 Contate-me no email: gmaia390@gmail.com
+- 📫 Contate-me no email: gabrielmaia20032000@gmail.com
 
 <div>
   <a href="https://beacons.ai/DeveloperMaia">
