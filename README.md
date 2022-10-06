@@ -20,7 +20,7 @@
   
 </div>
   
- <img align="right" height="200" src="https://i.ibb.co/whpVjQB/5e9.gif" />
+ <img align="right" height="150" src="https://i.ibb.co/whpVjQB/5e9.gif" />
 <br>
  
   
