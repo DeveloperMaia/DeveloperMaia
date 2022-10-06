@@ -20,7 +20,7 @@
   
 </div>
   
- <a href="https://ibb.co/zVPpD2Q"><img src="https://i.ibb.co/whpVjQB/5e9.gif" alt="5e9" border="0"></a>
+ <img align="right" src="https://i.ibb.co/whpVjQB/5e9.gif" />
 <br>
  
   
