@@ -1,6 +1,6 @@
 ### Olá, bem-vindo ao meu perfil, eu sou o Gabriel Maia! 👋
 
-- 🔭 Atualmente trabalho como técnico de TI.
+- 🔭 Atualmente trabalho como analista de dados.
 - 🌱 Estou me desenvolvendo na área de DBA.
 - 📫 Contate-me no email: gabrielmaia20032000@gmail.com
 
