@@ -14,9 +14,10 @@
   
   <img align="center" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
   <img align="center" height="30" width="30" src="https://blog.sqlauthority.com/wp-content/uploads/2016/03/configuration.png" />  
-</div>
-  
+
  <img align="right" height="100" src="https://i.ibb.co/whpVjQB/5e9.gif" />
+ </div>
+  
 <br>
  
   
