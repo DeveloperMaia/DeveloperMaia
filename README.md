@@ -19,11 +19,11 @@
 <br>
  
  <img align="center" height="1000" src="https://i.ibb.co/whpVjQB/5e9.gif" />
-  
+     <iframe src="https://scrawny-lime-e6f.notion.site/ebd/2925c323e5fc805ebcf4ef1a611e3255?v=2925c323e5fc80fc8b0e000c1b1ed525" width="100%" height="600" frameborder="0" allowfullscreen />
+
   <div>
   
   <a href="https://www.instagram.com/o.m.a.i.a/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielmaia20032000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-maia-medeiros-3b7147172/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-   <iframe src="https://scrawny-lime-e6f.notion.site/ebd/2925c323e5fc805ebcf4ef1a611e3255?v=2925c323e5fc80fc8b0e000c1b1ed525" width="100%" height="600" frameborder="0" allowfullscreen />
