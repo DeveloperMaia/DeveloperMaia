@@ -19,7 +19,6 @@
 <br>
  
  <img align="center" height="1000" src="https://i.ibb.co/whpVjQB/5e9.gif" />
-     <iframe src="https://scrawny-lime-e6f.notion.site/ebd/2925c323e5fc805ebcf4ef1a611e3255?v=2925c323e5fc80fc8b0e000c1b1ed525" width="100%" height="600" frameborder="0" allowfullscreen />
 
   <div>
   
