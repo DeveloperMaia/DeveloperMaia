@@ -13,10 +13,7 @@
   <div style="display: inline_block"><br>
   
   <img align="center" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="30" width="30" src="https://blog.sqlauthority.com/wp-content/uploads/2016/03/configuration.png" />  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  
   
 </div>
   
