@@ -16,10 +16,9 @@
   <img align="center" height="30" width="30" src="https://blog.sqlauthority.com/wp-content/uploads/2016/03/configuration.png" />  
    </div>
   
- <img align="center" height="1000" src="https://i.ibb.co/whpVjQB/5e9.gif" />
-
 <br>
  
+ <img align="center" height="1000" src="https://i.ibb.co/whpVjQB/5e9.gif" />
   
   <div>
   
